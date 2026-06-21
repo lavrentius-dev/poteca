@@ -1,1 +1,1 @@
-This is the  public resource repository for the Poteca app for Android by LAVRENTIUS.DEV
+# A  public resource repository for the Poteca app for Android by LAVRENTIUS.DEV
